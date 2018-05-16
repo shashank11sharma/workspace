@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Assests\" Type="ElementManifest" />
+    <ProjectItemFile Source="Lookup_Plant_List.stp" Target="Assests\" Type="ElementFile" />
+    <ProjectItemFile Source="Lookup_ProjectType_List.stp" Target="Assests\" Type="ElementFile" />
+    <ProjectItemFile Source="Lookup_ProjectTeamRole_List.stp" Target="Assests\" Type="ElementFile" />
+    <ProjectItemFile Source="Lookup_ProjectTeamData_List.stp" Target="Assests\" Type="ElementFile" />
+    <ProjectItemFile Source="Lookup_OtherAttachments_List.stp" Target="Assests\" Type="ElementFile" />
+    <ProjectItemFile Source="BreakThroughProcertProjectsTracking.stp" Target="Assests\" Type="ElementFile" />
+    <ProjectItemFile Source="Lookup_Organization_List.stp" Target="Assests\" Type="ElementFile" />
+    <ProjectItemFile Source="Lookup_ProcertMultilingual_List.stp" Target="Assests\" Type="ElementFile" />
+    <ProjectItemFile Source="Lookup_Metricsarea_List.stp" Target="Assests\" Type="ElementFile" />
+    <ProjectItemFile Source="Lookup_ProcertEmailConfiguration.stp" Target="Assests\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

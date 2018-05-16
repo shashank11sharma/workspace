@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" AlwaysForceInstall="TRUE" Id="d218d03f-2710-421d-ba3d-53a5fc0ae77b" ReceiverAssembly="PWC.Process.SixSigma, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3cb004228fce7fc8" ReceiverClass="PWC.Process.SixSigma.Features.Feature1.Feature1EventReceiver" Scope="Site" Title="PWC.Process.SixSigma">
+  <ElementManifests>
+    <ElementManifest Location="wp_SixSigma\Elements.xml" />
+    <ElementFile Location="wp_SixSigma\wp_SixSigma.webpart" />
+    <ElementManifest Location="CreateSitePages\Elements.xml" />
+    <ElementFile Location="CreateSitePages\BreakThroughProcertProjectsTracking.aspx" />
+    <ElementFile Location="CreateSitePages\EmailNotification.aspx" />
+    <ElementFile Location="CreateSitePages\AddGroupUsers.aspx" />
+    <ElementManifest Location="Assests\Elements.xml" />
+    <ElementFile Location="Assests\Lookup_Plant_List.stp" />
+    <ElementFile Location="Assests\Lookup_ProjectType_List.stp" />
+    <ElementFile Location="Assests\Lookup_ProjectTeamRole_List.stp" />
+    <ElementFile Location="Assests\Lookup_ProjectTeamData_List.stp" />
+    <ElementFile Location="Assests\Lookup_OtherAttachments_List.stp" />
+    <ElementFile Location="Assests\BreakThroughProcertProjectsTracking.stp" />
+    <ElementFile Location="Assests\Lookup_Organization_List.stp" />
+    <ElementFile Location="Assests\Lookup_ProcertMultilingual_List.stp" />
+    <ElementFile Location="Assests\Lookup_Metricsarea_List.stp" />
+    <ElementFile Location="Assests\Lookup_ProcertEmailConfiguration.stp" />
+    <ElementManifest Location="wp_EmailCommentNotification\Elements.xml" />
+    <ElementFile Location="wp_EmailCommentNotification\wp_EmailCommentNotification.webpart" />
+    <ElementManifest Location="wp_AddGroupUsers\Elements.xml" />
+    <ElementFile Location="wp_AddGroupUsers\wp_AddGroupUsers.webpart" />
+  </ElementManifests>
+</Feature>

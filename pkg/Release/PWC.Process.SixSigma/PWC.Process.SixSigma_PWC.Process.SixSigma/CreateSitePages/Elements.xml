@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="CreateSitePages" Url="SitePages">
+    <File Path="CreateSitePages\BreakThroughProcertProjectsTracking.aspx" Url="BreakThroughProcertProjectsTracking.aspx"  Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE" Name="BreakThroughProcertProjectsTracking.aspx" />
+    <File Path="CreateSitePages\EmailNotification.aspx" Url="EmailNotification.aspx"  Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE" Name="EmailNotification.aspx" />
+    <File Path="CreateSitePages\AddGroupUsers.aspx" Url="AddGroupUsers.aspx"  Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE" Name="AddGroupUsers.aspx" />
+ 
+</Module>
+</Elements>

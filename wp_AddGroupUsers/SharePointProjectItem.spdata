@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.VisualWebPart" DefaultFile="wp_AddGroupUsersUserControl.ascx" SupportedTrustLevels="FullTrust" SupportedDeploymentScopes="Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="wp_AddGroupUsers\" Type="ElementManifest" />
+    <ProjectItemFile Source="wp_AddGroupUsers.webpart" Target="wp_AddGroupUsers\" Type="ElementFile" />
+    <ProjectItemFile Source="wp_AddGroupUsersUserControl.ascx" Target="CONTROLTEMPLATES\PWC.Process.SixSigma\wp_AddGroupUsers\" Type="TemplateFile" />
+  </Files>
+  <SafeControls>
+    <SafeControl Name="SafeControlEntry1" Assembly="$SharePoint.Project.AssemblyFullName$" Namespace="PWC.Process.SixSigma.wp_AddGroupUsers" TypeName="*" IsSafe="true" IsSafeAgainstScript="false" />
+  </SafeControls>
+</ProjectItem>

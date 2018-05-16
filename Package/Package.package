@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="9b577dea-c1cd-42dc-bece-1b3f6a7b47aa" solutionId="9b577dea-c1cd-42dc-bece-1b3f6a7b47aa" resetWebServer="false" sharePointProductVersion="16.0" name="PWC.Process.SixSigma" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="3f9c3b67-a4aa-4eff-a481-384d6171f382" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="bf419398-88a0-4666-bb23-b162dbaae1f9" />
+  </projectItems>
+</package>

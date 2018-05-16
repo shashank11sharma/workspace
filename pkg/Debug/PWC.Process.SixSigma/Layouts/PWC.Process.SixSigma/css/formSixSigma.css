@@ -1,0 +1,459 @@
+﻿.ms-taxonomy-width
+{
+width: 351px;    
+}
+.Project_Heading
+{
+	color: White; 
+	font-size: 16pt !important; 
+	font-family: 'Calibri' !important;
+	padding-left: 10px;
+	background-color: #3399ff !important;
+	text-align: left;
+
+}
+.Project_Sub_Heading
+{
+	color: White; 
+	font-size: 14pt !important; 
+	font-family: 'Calibri' !important;
+	padding-left: 10px;
+	background-color: #000000 !important;
+	text-align: left;
+}
+.Project_Label
+{
+	color: Black; 
+	font-size: 10pt !important; 
+	font-family: 'Calibri' !important;
+	padding-left: 10px;
+	font-weight:bold;
+	background-color: #F1F1F1 !important;
+	text-align: left;
+}
+
+.Label_Control
+{
+    color: Black; 
+	font-size: 10pt !important; 
+	font-family: 'Calibri' !important;
+}
+.Label_Mandatory
+{
+	color: Red;
+}
+.Project_Label_Control
+{
+	color: Black; 
+	font-size: 10pt !important; 
+	font-family: 'Calibri' !important;
+	padding-left: 10px;
+	background-color: #F1F1F1 !important;
+	text-align: left;
+}
+
+.Project_Error_Label
+{
+	color: Red;
+	font-size: 10pt !important; 
+	padding-left: 10px;
+	background-color: #F1F1F1 !important;
+	text-align: left;
+}
+.Project_Status
+{
+    color: Black !important;
+    font-family: 'Calibri' !important;
+    font-size: 14pt !important;
+    font-weight: bold;
+    vertical-align:bottom;
+    width:60% !important;
+}
+.Project_Id
+{
+    color:Black;
+    font-size: 12pt !important;
+    font-family: 'Calibri' !important; 
+    text-align: right;
+    vertical-align:bottom;
+    font-weight:bold;
+}
+
+.Project_Language
+{
+    color:Black;
+    font-size: 12pt !important;
+    font-family: 'Calibri' !important; 
+    text-align: left;
+    vertical-align:bottom;
+    font-weight:bold;
+}
+
+.Form_Title
+{
+	color: black !important;
+    font-family: 'Calibri' !important;
+    font-size: 14pt !important;
+    font-weight: bold;
+    vertical-align:bottom;
+    width:55% !important;
+}
+
+.Form_Title_TechnicalData
+{
+    color: red !important;
+    font-family: 'Calibri' !important;
+    font-size: 11pt !important;
+    font-style:italic;
+    font-weight: normal !important;
+    vertical-align:bottom;
+}
+.TextBoxCSS
+{
+    color: Black; 
+	font-size: 10pt !important; 
+	font-family: 'Calibri' !important;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #a5a5a5;
+    border-width: 1px;
+    vertical-align: middle;
+}
+.Table_Header
+{
+    color: White; 
+    font-size: 10pt !important; 
+    font-family: 'Calibri' !important;
+    padding-left: 10px; 
+    background-color:#1D558F;
+    font-weight:bold;
+}
+.Table_HeaderDD
+{
+    color: White; 
+    font-size: 10pt !important; 
+    font-family: 'Calibri' !important;
+    background-color:#1D558F;
+    font-weight:bold;
+}
+.Link_Button
+{
+	color: #0071c6;
+	padding-top: 10px;
+	font-family: 'Calibri' !important;
+	font-size: 10pt !important; 
+	font-Weight:bold;
+	text-align:right;
+}
+.Link_Error_Label
+{
+	color:red; 
+	font-size:10pt !important; 
+	font-family:Calibri !important; 
+	vertical-align:bottom;
+	font-Weight:bold;
+}
+.Attachment_Grid_Title
+{
+    color: #0072bc !important;
+    font-family: 'Calibri' !important;
+    font-size: 10pt !important;
+    font-weight: 115 !important;
+}
+.myGridStyle
+{
+    border-collapse: collapse;
+    padding: 8px;
+    color: Black;
+    border: 1px solid black;
+}
+.myGridStyle td
+{
+    border: 1px solid White;
+    padding: 4px;
+    font-family: 'Calibry';
+    font-size: 8pt;
+}
+.myGridStyle th
+{
+    border: 1px solid White;
+}
+.myGridStyleWorkflow
+{
+    border-collapse: collapse;
+    padding: 8px;
+    color: Black;
+    border: 1px solid black;
+}
+.myGridStyleWorkflow td
+{
+    padding: 8px;
+    font-family: 'Calibri';
+    font-size: 10pt;
+    border: 1px solid white !important;
+}
+.myGridStyleWorkflow th
+{
+    padding: 8px;
+    color: White;
+    font-family: 'Calibri';
+    font-size: 10pt;
+    font-weight: 115 !important;
+}
+
+.myGridStyleActionLogs
+{
+    border-collapse: collapse;
+    padding: 8px;
+    color: Black;
+    border: 1px solid white;
+}
+.myGridStyleActionLogs td
+{
+    padding: 8px;
+    font-family: 'Calibri';
+    font-size: 10pt;
+    text-align: left;
+    border: 1px solid white !important;
+}
+.myGridStyleActionLogs th
+{
+    padding: 8px;
+    color: White;
+    font-family: 'Calibri';
+    font-size: 10pt;
+    font-weight: 115 !important;
+}
+.myGridStylePeople th
+{
+    padding: 5px;
+    color: White;
+    font-family: 'Calibri';
+    font-size: 10pt;
+    font-weight: 115 !important;
+}
+.myGridStylePeople td
+{
+    padding-top: 2px;
+    font-family: 'Calibri';
+    font-size: 10pt;
+    border: 1px solid white !important;
+}
+.myGridStyleQuad th
+{
+    padding: 5px;
+    color: White;
+    font-family: 'Calibri';
+    font-size: 10pt;
+    font-weight: 115 !important;
+}
+.myGridStyleQuad td
+{
+    padding-top: 2px;
+    font-family: 'Calibri';
+    font-size: 10pt;
+    text-align: left;
+    border: 1px solid white !important;
+    padding-left:20px;
+}
+.Grid_Link
+{
+    color: #0072bc;
+    font-weight:115 !important;
+}
+    
+.dateClass
+{
+    width: 90%;
+    height: 18px;
+    border-width: 1px;
+    font-family: 'Calibri';
+    color: Black;
+    font-size: 10pt;
+    border-style: solid;
+    border-color: #a5a5a5;
+    border-width: 1px;
+}
+.ms-input
+{
+    width: 180px;
+    font-size: 10px;
+    font-family: 'Calibri';
+}
+.ms-inputuserfield
+{
+    font-size: 10pt;
+    font-family: 'Calibri';
+    border: 1px solid #a5a5a5;
+    text-align: left;
+}
+div.ms-inputuserfield a
+{
+    color: #000000;
+    text-decoration: none;
+    font-weight: normal;
+    font-style: normal;
+}
+
+div.ms-inputuserfield
+{
+    padding-left: 1px;
+    padding-top: 2px;
+}
+.moretest
+{
+    width: 350px;
+    background-color: #f0f0f0;
+    margin: 10px;
+}
+.morecontent span
+{
+    display: none;
+}
+.ms-usereditor td
+{
+    border: 0px solid white !important;
+}
+.FreezePaneOff
+{
+    visibility: hidden;
+    display: none;
+    position: absolute;
+    top: -100px;
+    left: -100px;
+}
+
+.FreezePaneOn
+{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    visibility: visible;
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-color: #666666;
+    z-index: 999;
+    filter: alpha(opacity=85);
+    -moz-opacity: 0.85;
+    padding-top: 20%;
+}
+
+.InnerFreezePane
+{
+    text-align: center;
+    width: 66%;
+    background-color: #666666;
+    color: White;
+    font-size: large;
+    border: dashed 2px #111;
+    padding: 9px;
+}
+
+    
+
+.HiddenColumn
+{
+    display: none;
+    border-bottom-width: 5px;
+}
+PagerStyle TD
+{
+    height: 10px;
+    margin: 0px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-family: 'Arial, Helvetica, sans-serif';
+    font-size: 10pt;
+}
+PagerStyle TD TABLE
+{
+    margin: 0px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-family: 'Arial, Helvetica, sans-serif';
+}
+.DiscussionPager span
+{
+    font-size: 14pt !important;
+    color: blue;
+}
+.moreTask
+{
+    width: 340px; /*margin: 10px;*/
+}
+    
+.morecontent span
+{
+    display: none;
+}
+    
+.NoPadding_Margin
+{
+    padding: 0px;
+    margin: 0px;
+}
+    
+td.column_style_right
+{
+    border-right: 2px solid white;
+    padding-left: 20px;
+}
+td.column_style_end
+{
+    padding-left: 20px;
+}
+    
+fieldset
+{
+    border: 4px solid #484848;
+    padding: 1em;
+    margin-top: 10px;
+}
+    
+legend
+{
+    /* padding: 0.2em 0.5em;
+border:2px solid #bdbdbd ;*/
+    text-align: right;
+    color: #0072bc !important;
+    font-family: "BebasNeueRegular" , Calibri !important;
+    font-size: 24px !important;
+    font-weight: 100 !important; /*padding-bottom: 5px;*/
+}
+    
+    
+.modal
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: black;
+    z-index: 99;
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+    -moz-opacity: 0.8;
+    min-height: 100%;
+    width: 100%;
+}
+.loading
+{
+    font-family: Arial;
+    font-size: 10pt;
+    border: 5px solid #67CFF5;
+    width: 200px;
+    height: 100px;
+    display: none;
+    position: fixed;
+    background-color: White;
+    z-index: 999;
+}
+    
+.ModalMargin
+{
+    border-left-style: solid;
+    border-right-style: solid;
+    border-color: Black;
+    border-width: 1px;
+    background-color: #FFFFFF;
+}

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="9b577dea-c1cd-42dc-bece-1b3f6a7b47aa" SharePointProductVersion="16.0">
+  <Assemblies>
+    <Assembly Location="PWC.Process.SixSigma.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="PWC.Process.SixSigma, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3cb004228fce7fc8" Namespace="PWC.Process.SixSigma.wp_SixSigma" TypeName="*" />
+        <SafeControl Assembly="PWC.Process.SixSigma, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3cb004228fce7fc8" Namespace="PWC.Process.SixSigma.wp_EmailCommentNotification" TypeName="*" />
+        <SafeControl Assembly="PWC.Process.SixSigma, Version=1.0.0.0, Culture=neutral, PublicKeyToken=3cb004228fce7fc8" Namespace="PWC.Process.SixSigma.wp_AddGroupUsers" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\PWC.Process.SixSigma\wp_SixSigma\wp_SixSigmaUserControl.ascx" />
+    <TemplateFile Location="CONTROLTEMPLATES\PWC.Process.SixSigma\wp_EmailCommentNotification\wp_EmailCommentNotificationUserControl.ascx" />
+    <TemplateFile Location="CONTROLTEMPLATES\PWC.Process.SixSigma\wp_AddGroupUsers\wp_AddGroupUsersUserControl.ascx" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\css\formSixSigma.css" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\css\jquery-ui.css" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\css\SelectUsers.css" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\GetAttachment.aspx" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\Images\delete.png" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\Images\edititem.gif" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\Images\FormResource.jpg" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\Images\icdocx.png" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\Images\icgen.gif" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\Images\icpng.gif" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\Images\icpptx.png" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\Images\ictxt.gif" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\Images\icxlsx.png" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\Images\image1.png" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\Images\tabs.gif" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\Images\Thumb.jpg" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\Images\Trash.png" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\Images\ui-bg_flat_55_999999_40x100.png" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\Images\ui-bg_flat_75_aaaaaa_40x100.png" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\Images\ui-bg_flat_75_ffffff_40x100.png" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\Images\ui-bg_glass_45_0078ae_1x400.png" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\Images\ui-bg_glass_55_f8da4e_1x400.png" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\Images\ui-bg_glass_65_ffffff_1x400.png" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\Images\ui-bg_highlight-soft_75_cccccc_1x100.png" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\Images\ui-bg_inset-hard_100_fcfdfd_1x100.png" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\Images\ui-icons_0078ae_256x240.png" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\js\jquery-1.11.0.min.js" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\js\jquery-ui.js" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\js\jquery.SPServices-0.7.1a.js" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\js\Modal.js" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\js\SelectUsersPopUp.js" />
+    <TemplateFile Location="Layouts\PWC.Process.SixSigma\RemoveAttachment.aspx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="PWC.Process.SixSigma_PWC.Process.SixSigma\Feature.xml" />
+  </FeatureManifests>
+</Solution>

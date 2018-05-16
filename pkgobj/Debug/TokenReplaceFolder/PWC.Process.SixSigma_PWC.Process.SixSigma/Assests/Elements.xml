@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+
+
+
+
+  <Module Name="Assests" Url="_catalogs/lt" >
+    <File Path="Assests\Lookup_Organization_List.stp" Url="Lookup_Organization_List.stp"  Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE">
+      <Property Name="LanguageDisplay" Value="English"></Property>
+      <Property Name="version" Value="3"></Property>
+    </File>
+  </Module>
+
+  <Module Name="Assests" Url="_catalogs/lt" >
+    <File Path="Assests\Lookup_ProcertEmailConfiguration.stp" Url="Lookup_ProcertEmailConfiguration.stp" Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE">
+    <Property Name="LanguageDisplay" Value="English"></Property>
+    <Property Name="version" Value="3"></Property>
+    </File>
+  </Module>
+
+  <Module Name="Assests" Url="_catalogs/lt" >
+    <File Path="Assests\Lookup_Metricsarea_List.stp" Url="Lookup_Metricsarea_List.stp"  Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE">
+      <Property Name="LanguageDisplay" Value="English"></Property>
+      <Property Name="version" Value="3"></Property>
+    </File>
+  </Module>
+
+
+  <Module Name="Assests" Url="_catalogs/lt" >
+    <File Path="Assests\Lookup_ProcertMultilingual_List.stp" Url="Lookup_ProcertMultilingual_List.stp"  Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE">
+      <Property Name="LanguageDisplay" Value="English"></Property>
+      <Property Name="version" Value="3"></Property>
+    </File>
+  </Module>
+
+
+
+  <Module Name="Assests" Url="_catalogs/lt" >
+    <File Path="Assests\BreakThroughProcertProjectsTracking.stp" Url="BreakThroughProcertProjectsTracking.stp"  Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE">
+      <Property Name="LanguageDisplay" Value="English"></Property>
+      <Property Name="version" Value="3"></Property>
+    </File>
+  </Module>
+
+  <Module Name="Assests" Url="_catalogs/lt" >
+    <File Path="Assests\Lookup_OtherAttachments_List.stp" Url="Lookup_OtherAttachments_List.stp"  Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE">
+      <Property Name="LanguageDisplay" Value="English"></Property>
+      <Property Name="version" Value="3"></Property>
+    </File>
+  </Module>
+
+
+  <Module Name="Assests" Url="_catalogs/lt" >
+    <File Path="Assests\Lookup_ProjectTeamRole_List.stp" Url="Lookup_ProjectTeamRole_List.stp"  Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE">
+      <Property Name="LanguageDisplay" Value="English"></Property>
+      <Property Name="version" Value="3"></Property>
+    </File>
+  </Module>
+
+
+
+  <Module Name="Assests" Url="_catalogs/lt" >
+    <File Path="Assests\Lookup_ProjectTeamData_List.stp" Url="Lookup_ProjectTeamData_List.stp"  Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE">
+      <Property Name="LanguageDisplay" Value="English"></Property>
+      <Property Name="version" Value="3"></Property>
+    </File>
+  </Module>
+
+
+  <Module Name="Assests" Url="_catalogs/lt" >
+    <File Path="Assests\Lookup_Plant_List.stp" Url="Lookup_Plant_List.stp"  Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE">
+      <Property Name="LanguageDisplay" Value="English"></Property>
+      <Property Name="version" Value="3"></Property>
+    </File>
+  </Module>
+
+
+  <Module Name="Assests" Url="_catalogs/lt" >
+    <File Path="Assests\Lookup_ProjectType_List.stp" Url="Lookup_ProjectType_List.stp"  Type="GhostableInLibrary" IgnoreIfAlreadyExists="TRUE">
+      <Property Name="LanguageDisplay" Value="English"></Property>
+      <Property Name="version" Value="3"></Property>
+    </File>
+  </Module>
+
+
+  <Module Name="Assests" Url="_catalogs/lt" >
+  </Module>
+
+
+
+
+
+</Elements>

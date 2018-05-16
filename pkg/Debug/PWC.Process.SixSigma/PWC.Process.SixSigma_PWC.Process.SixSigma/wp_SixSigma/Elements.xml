@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="wp_SixSigma" List="113" Url="_catalogs/wp">
+    <File Path="wp_SixSigma\wp_SixSigma.webpart" Url="wp_SixSigma.webpart" Type="GhostableInLibrary" >
+      <Property Name="Group" Value="Custom" />
+    </File>
+  </Module>
+</Elements>

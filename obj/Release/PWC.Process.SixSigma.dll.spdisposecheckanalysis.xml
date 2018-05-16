@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProblem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Problem>
+    <ID>SPDisposeCheckID_120</ID>
+    <Module>PWC.Process.SixSigma.dll</Module>
+    <Method>PWC.Process.SixSigma.Features.Feature1.Feature1EventReceiver+&lt;&gt;c__DisplayClass1.&lt;FeatureActivated&gt;b__0</Method>
+    <Assignment>this.&lt;&gt;4__this.{PWC.Process.SixSigma.Features.Feature1.Feature1EventReceiver}FormHomePage(System.String.Concat(siteCollection.{Microsoft.SharePoint.SPSite}OpenWeb().{Microsoft.SharePoint.SPWeb}get_Url(), "/SitePages/BreakThroughProcertProjectsTracking.aspx"), "Header", "BreakThroughProcertProjectsTracking.aspx", "")</Assignment>
+    <Source>D:\PWC.Process.SixSigma\PWC.Process.SixSigma\Features\PWC.Process.SixSigma\PWC.Process.SixSigma.EventReceiver.cs</Source>
+    <Line>42</Line>
+    <Notes>Call to Microsoft.SharePoint.SPSite.OpenWeb and no variable to catch return value</Notes>
+  </Problem>
+  <Problem>
+    <ID>SPDisposeCheckID_120</ID>
+    <Module>PWC.Process.SixSigma.dll</Module>
+    <Method>PWC.Process.SixSigma.Features.Feature1.Feature1EventReceiver+&lt;&gt;c__DisplayClass1.&lt;FeatureActivated&gt;b__0</Method>
+    <Assignment>this.&lt;&gt;4__this.{PWC.Process.SixSigma.Features.Feature1.Feature1EventReceiver}EmailCommentNotification(System.String.Concat(siteCollection.{Microsoft.SharePoint.SPSite}OpenWeb().{Microsoft.SharePoint.SPWeb}get_Url(), "/SitePages/EmailNotification.aspx"), "Header", "EmailNotification.aspx", "")</Assignment>
+    <Source>D:\PWC.Process.SixSigma\PWC.Process.SixSigma\Features\PWC.Process.SixSigma\PWC.Process.SixSigma.EventReceiver.cs</Source>
+    <Line>43</Line>
+    <Notes>Call to Microsoft.SharePoint.SPSite.OpenWeb and no variable to catch return value</Notes>
+  </Problem>
+  <Problem>
+    <ID>SPDisposeCheckID_645</ID>
+    <Module>PWC.Process.SixSigma.dll</Module>
+    <Method>PWC.Process.SixSigma.wp_SixSigma.wp_SixSigmaUserControl.&lt;BindSixSigmaDropDowns&gt;b__4</Method>
+    <Assignment>site.{System.IDisposable}Dispose()</Assignment>
+    <Line>0</Line>
+    <Notes>Dispose should not be called on this object.
+Initial Assignment: site := Microsoft.SharePoint.SPContext.get_Current().{Microsoft.SharePoint.SPContext}get_Site()</Notes>
+  </Problem>
+</ArrayOfProblem>
